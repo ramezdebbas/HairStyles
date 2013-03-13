@@ -1,0 +1,12 @@
+Hair Styles:
+Description:
+Hair Style is a big help about hair cutting, here is very precise info about which hair style suits you by your current age, in this apps user can find best women hair styles, awesome men hair styles, cool hair styles of Girls & Boys.
+
+Features:
+•	Best info about Hair Styles 
+(Men, Women, Boys, Girls).
+•	Pin to start item detail page option.
+•	Sharing any hair styles.
+•	Searching feature
+•	Semantic and snapping modes. 
+
